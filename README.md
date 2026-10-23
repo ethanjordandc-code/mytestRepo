@@ -2,5 +2,5 @@
 testRepo
 
 # My GitHub Repository
-**<u><i>Ethan Dela Cruz</i></u>**
-**<u><i>PowerShell</i></u>**
+***<u>Ethan Dela Cruz</u>***
+***<u>PowerShell</u>***
